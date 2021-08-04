@@ -16,7 +16,7 @@ Tech Stack
 
 Sample
 --------
-<img src="kotlin/screenshots/screenshot_1.jpg" height="375"/>
+<img src="https://github.com/GibsonRuitiari/WeatherBot/blob/master/src/main/kotlin/screenshots/screenshot_1.jpg" height="375"/>
 
 Building
 --------
